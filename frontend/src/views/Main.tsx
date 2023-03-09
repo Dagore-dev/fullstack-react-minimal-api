@@ -3,7 +3,7 @@ import Pizza from '../components/Pizza'
 
 export default function Main (): JSX.Element {
   const pizzas: IPizza[] = [
-    { id: 1, name: 'Cheese pizza', description: 'very cheesy' }, 
+    { id: 1, name: 'Cheese pizza', description: 'very cheesy' },
     { id: 2, name: 'Al Tono pizza', description: 'lots of tuna' }
   ]
 
